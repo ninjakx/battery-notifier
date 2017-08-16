@@ -1,2 +1,2 @@
 # battery-notifier
-Works only for ubuntu
+Works only for ubuntu.
